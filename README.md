@@ -45,7 +45,7 @@ julia --version
 
 ---
 
-## 3) 在 Jupyter 中使用 Julia（IJulia）
+## 3) 在 Jupyter 中使用 Julia（IJulia）/ Windows與macOS皆適用
 若想在 Jupyter Notebook 或 JupyterLab 使用 Julia，推薦安裝 `IJulia` 套件(官方也這樣建議)
 ### 步驟（使用 Julia REPL）
 1. 開啟 Julia REPL（在終端或命令提示字元輸入 `julia`）。
@@ -60,6 +60,9 @@ julia> Pkg.add("IJUlia")
 ```
 julia> using IJulia
 julia> notebook()
-
 ```
 4.出現`install Jupyter via Conda, y/n? [y]:`請輸入`y`則會進行下載
+
+**提醒**:這是建立在你沒有Jupyter的情況，conad會幫你裝JUpyter到新環境，假如你打y的話。
+
+---
