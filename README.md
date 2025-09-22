@@ -56,4 +56,10 @@ julia> using Pkg
 
 julia> Pkg.add("IJUlia")
 ```
+3.下載完後繼續輸入:
+```
+julia> using IJulia
+julia> notebook()
 
+```
+4.出現`install Jupyter via Conda, y/n? [y]:`請輸入`y`則會進行下載
