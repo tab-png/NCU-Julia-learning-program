@@ -63,6 +63,6 @@ julia> notebook()
 ```
 4.出現`install Jupyter via Conda, y/n? [y]:`請輸入`y`則會進行下載
 
-**提醒**:這是建立在你沒有Jupyter的情況，conad會幫你裝JUpyter到新環境，假如你打y的話。
+**提醒**:這是建立在你沒有Jupyter的情況，conda會幫你裝Jupyter到新環境，假如你打y的話。
 
 ---
