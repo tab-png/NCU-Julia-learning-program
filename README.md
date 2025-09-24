@@ -23,7 +23,7 @@
 
 ### Windows
 1. 執行下載的 `.exe` 安裝檔。
-2. 依安裝精靈（Installer）步驟完成安裝；安裝選項可將 Julia 加入系統 PATH（建議勾選，方便從終端機呼叫 `julia`）。
+2. 依安裝精靈（Installer）步驟完成安裝，並且確認安裝的adress；安裝選項可將 Julia 加入系統 PATH（建議勾選，方便從終端機呼叫 `julia`）。
 3. 安裝完成後，在命令提示字元（Command Prompt）或 PowerShell 輸入：
 
 ```powershell
